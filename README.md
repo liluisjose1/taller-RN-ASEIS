@@ -13,7 +13,7 @@ para utilizar los recursos dentro del directorio ejecute
 
 
 
-<h1 align="center">
+<h1 align="center" width="100px">
   <a href="https://facebook.github.io/react-native/">
     React Native
   </a>
