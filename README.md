@@ -1,7 +1,7 @@
 
 <div aling="center" >
   <a href="https://www.facebook.com/FMOASEIS/">
-    <img src="https://scontent.fsal3-1.fna.fbcdn.net/v/t1.0-9/12112381_126825441007435_178494854205264071_n.jpg?_nc_cat=103&_nc_ht=scontent.fsal3-1.fna&oh=8a3620077a3939c33eb21b092dc4b204&oe=5D94390F" alt="ASEIS." />
+    <img height="50" width="50" src="https://scontent.fsal3-1.fna.fbcdn.net/v/t1.0-9/12112381_126825441007435_178494854205264071_n.jpg?_nc_cat=103&_nc_ht=scontent.fsal3-1.fna&oh=8a3620077a3939c33eb21b092dc4b204&oe=5D94390F" alt="ASEIS." />
   </a>
 </div>
 
@@ -13,7 +13,7 @@ para utilizar los recursos dentro del directorio ejecute
 
 
 
-<h1 align="center" width="100px">
+<h1 align="center">
   <a href="https://facebook.github.io/react-native/">
     React Native
   </a>
